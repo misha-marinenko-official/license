@@ -13,4 +13,4 @@ Use of software (if purchased)
 
 
 
-The license may change, for a hedgehog of a fresh license, you need to go here: https://github.com/misha-marinenko-official/license
+The license may change, for a hedgehog of a fresh license, you need to go here: https://misha-marinenko-official.github.io/license/LICENSE.md
