@@ -1,12 +1,12 @@
-Copyright Misha Marinenko (c) 2018-2019
-Prohibited:
-Distribution without mentioning author
-editing without the consent of the author
-Using paid software without buying it
+Copyright Misha Marinenko (c) 2018-2019 <br>
+Prohibited: <br>
+Distribution without mentioning author <br>
+editing without the consent of the author <br>
+Using paid software without buying it <br>
 
 
-Allowed:
-Use of software (if purchased)
+Allowed: <br>
+Use of software (if purchased) <br>
 
 
 
